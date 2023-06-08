@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "AngularHostWithStaticWeb", "AngularHostWithStaticWeb\AngularHostWithStaticWeb.esproj", "{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC3E5094-A4B6-4C1B-9F25-8A5E16C8E82D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E7DC5E1-7310-45C6-9D8E-7C95EFCB2185}
+	EndGlobalSection
+EndGlobal
